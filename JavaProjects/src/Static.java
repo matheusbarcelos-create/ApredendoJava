@@ -1,8 +1,5 @@
-public class Aprendendo {
-
+public  class Static {
     public static void main(String[] args) {
 
     }
-
-    
 }
